@@ -8,6 +8,8 @@ When children are free from economic pressure, they can develop freely and optim
 
 This is where <a href="https://helpkidz-coin.org/" title="Helpkidz Coin">Helpkidz Coin</a> comes in, building a growing community through decentralised economies. Basic projects and developer solutions for children are financially supported and promoted. When a coin is purchased, a share of two percent is transferred to a charity wallet. As soon as enough has accumulated there, the money amounts are transferred directly to an aid project or converted into donations in kind. The HelpKidz Coin is used to provide urgently needed financial aid or food, clothing, furnishings, books or washing machines, for example. The two percent aid benefits children all over Europe. It is a safe investment in the future of these children, because their lives are improved. At the same time, every HelpKidz Coin buyer receives a three percent increase in value after each transaction as a reward.
 
+<b>Listed exchanges is currently <a href="https://pancakeswap.finance/swap?outputCurrency=0xD48D639F72EF29458b72cDC9A47A95fA46101529" title="PancakeSwap">PancakeSwap</a></b>       
+
 The HelpKidz Coin is currently produced in a limited quantity of 1 billion, with a 1% burn active. When a coin is purchased, a 2% share is transferred to a charity wallet. Once enough has accumulated there, the monetary amounts are put directly into a relevant project or converted into in-kind donations. Whether food, the purchase of missing clothes, a washing machine or funds - with the HelpKidz Coin we offer urgently needed support.
 
 With our HelpKidz Coin we want to help children all over Europe.
